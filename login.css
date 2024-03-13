@@ -1,0 +1,32 @@
+body{
+    margin-right: 100px;
+}
+.pic{
+    float:left;
+    width: 500px;
+}
+h1{
+    font-size: 30px;
+    text-align: center;
+    color: #c22725;
+}
+form{
+    margin: auto;
+    text-align: center;
+    font-size: 30px;
+}
+form input{
+    font-size: 25px;
+}
+button a{
+    font-size: 20px;
+    text-decoration: none;
+    background-color: #c22725;
+    color: black;
+    padding: 20px;
+    display: block;
+    text-align: center;
+}
+#sign{
+    margin-left: 890px;
+}
